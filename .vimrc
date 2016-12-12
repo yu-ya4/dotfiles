@@ -26,4 +26,4 @@ set clipboard=unnamed
 
 set encoding=utf-8
 
-
+colorscheme darkblue
